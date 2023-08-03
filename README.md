@@ -8,4 +8,4 @@ Date Display: Alongside the time, the digital clock also displays the current da
 
 Real-Time Updates: The clock is designed to update continuously in real-time, accurately reflecting the current time and date without any manual intervention.
 
-24-Hour Accuracy: The clock operates with high precision, ensuring that it stays accurate and reliable over an extended period. It may be synchronized with a reliable time source like a quartz crystal oscillator or an internet time server for improved precision.
+24-Hour Accuracy: The clock operates with high precision, ensuring that it stays accurate and reliable over an extended period. It may be synchronized with a reliable time source like a quartz crystal oscillator or an internet time server for improved precision
